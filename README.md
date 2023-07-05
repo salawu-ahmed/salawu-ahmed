@@ -9,12 +9,12 @@ Hi there, I'm Salawu Ahmed. I am a MERN stack developer and technical writer.
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,express,react,nodejs,redux,js,html,css,sass)](https://skills.thijs.gg)
 
 ### What am I up to?
-- 🔭 I’m currently working on building a solid portfolio and finding a job 
-- 🌱 I’m currently learning DSA & React Native 
-- 👯 I’m looking to collaborate on Fintech & Edtech projects  
-- 🤔 I’m looking for help with MERN stack gigs 
-- 💬 Ask me about MERN & Football 
-- 📫 How to reach me: a.salawu@outlook.com 
+- 🔭 I’m currently working on building a solid portfolio and finding a job.
+- 🌱 I’m currently learning DSA & React Native. 
+- 👯 I’m looking to collaborate on projects that make use of MERN stack.  
+- 🤔 I’m looking for help with MERN stack gigs. 
+- 💬 Ask me about MERN & Football.
+- 📫 How to reach me: a.salawu@outlook.com.
 
 ## Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salawu-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://asally.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/ahmed-salawu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/a__sally)  
