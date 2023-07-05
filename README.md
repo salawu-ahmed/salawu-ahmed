@@ -1,20 +1,26 @@
-### Hi there 👋, my name is Salawu Ahmed
-#### MERN Stack developer
-#### About 
----
-I'm Salawu Ahmed, usually i prefer being called Asal. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
-
+# Salawu Ahmed
+## MERN Stack developer
 ![I am MERN Stack developer](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)
-
-Skills:   REACT / EXPRESS / NODE JS / MONGO DB / JS / HTML / CSS
-
+---
+## About 
+I'm Salawu Ahmed, usually i prefer being called Asal. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
+---
+## Skills
+:React
+:Tailwind CSS
+:Express
+:Node JS
+:MongoDB
+:Redux Toolkit
+:HTML, CSS & JS
+---
+### What am I up to?
 - 🔭 I’m currently working on building a solid portfolio and finding a job 
 - 🌱 I’m currently learning DSA & React Native 
 - 👯 I’m looking to collaborate on Fintech & Edtech projects  
 - 🤔 I’m looking for help with MERN stack gigs 
 - 💬 Ask me about MERN & Football 
-- 📫 How to reach me: +233 20 923 7909 
-
+- 📫 How to reach me: a.salawu@outlook.com 
 ----
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salawu-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://asally.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/ahmed-salawu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/a__sally)  
 
