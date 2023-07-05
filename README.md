@@ -4,7 +4,7 @@
 ---
 ## About 
 
-Hi there [wave], I'm Salawu Ahmed. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
+Hi there, I'm Salawu Ahmed. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
 ---
 ## Skills
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,react,nodejs,express,mongodb,redux)](https://skills.thijs.gg)
