@@ -4,16 +4,10 @@
 ---
 ## About 
 
-I'm Salawu Ahmed, usually i prefer being called Asal. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
+Hi there [wave], I'm Salawu Ahmed. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
 ---
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,react,node,mongodb,redux)](https://skills.thijs.gg)
-:Tailwind CSS:
-:Express
-:Node JS
-:MongoDB
-:Redux Toolkit
-:HTML, CSS & JS
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,react,node js,express,mongodb,redux)](https://skills.thijs.gg)
 ---
 ### What am I up to?
 - 🔭 I’m currently working on building a solid portfolio and finding a job 
