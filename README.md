@@ -2,7 +2,11 @@
 
 I'm Salawu Ahmed, usually i prefer being called Asal. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salawu-ahmed)](https://github.com/anuraghazra/github-readme-stats)
+![salawu-ahmed's Stats](https://github-readme-stats.vercel.app/api?username=salawu-ahmed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![salawu-ahmed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=salawu-ahmed&theme=vue-dark&hide_border=true)
+
+![salawu-ahmed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salawu-ahmed&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 <!--
