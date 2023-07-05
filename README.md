@@ -7,7 +7,7 @@
 Hi there [wave], I'm Salawu Ahmed. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
 ---
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,react,node js,express,mongodb,redux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,react,nodejs,express,mongodb,redux)](https://skills.thijs.gg)
 ---
 ### What am I up to?
 - 🔭 I’m currently working on building a solid portfolio and finding a job 
@@ -17,6 +17,7 @@ Hi there [wave], I'm Salawu Ahmed. I am a MERN stack developer and a big lover o
 - 💬 Ask me about MERN & Football 
 - 📫 How to reach me: a.salawu@outlook.com 
 ----
+## Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salawu-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://asally.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/ahmed-salawu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/a__sally)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salawu-ahmed)](https://github.com/ryo-ma/github-profile-trophy)
