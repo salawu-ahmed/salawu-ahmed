@@ -7,7 +7,8 @@
 Hi there, I'm Salawu Ahmed. I am a MERN stack developer and technical writer.
 ---
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,react,nodejs,express,mongodb,redux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb,redux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass)](https://skills.thijs.gg)
 ---
 ### What am I up to?
 - 🔭 I’m currently working on building a solid portfolio and finding a job 
