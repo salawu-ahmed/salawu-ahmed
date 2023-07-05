@@ -3,11 +3,12 @@
 ![I am MERN Stack developer](https://res.cloudinary.com/practicaldev/image/fetch/s--WPQ75f2s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg)
 ---
 ## About 
+
 I'm Salawu Ahmed, usually i prefer being called Asal. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
 ---
 ## Skills
-:React
-:Tailwind CSS
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,react,node,mongodb,redux)](https://skills.thijs.gg)
+:Tailwind CSS:
 :Express
 :Node JS
 :MongoDB
