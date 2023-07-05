@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Salawu Ahmed, usually i prefer to be called Asal. I am a MERN stack developer. I am a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
+I'm Salawu Ahmed, usually i prefer being called Asal. I am a MERN stack developer and a big lover of awesome web designs with animations. Javascript is my first love. I am currently enrolled in BSc Comp Sci in the University of Ghana.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salawu-ahmed)](https://github.com/anuraghazra/github-readme-stats)
 
