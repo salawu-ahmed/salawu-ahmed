@@ -10,7 +10,23 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills:   REACT / EXPRESS / NODE JS / MONGO DB / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on building a solid portfolio and finding a job 
+- 🌱 I’m currently learning DSA & React Native 
+- 👯 I’m looking to collaborate on Fintech & Edtech projects  
+- 🤔 I’m looking for help with MERN stack gigs 
+- 💬 Ask me about MERN & Football 
+- 📫 How to reach me: +233 20 923 7909 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salawu-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://asally.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/ahmed-salawu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/a__sally)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=salawu-ahmed)](https://github.com/ryo-ma/github-profile-trophy)
+
+![salawu-ahmed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=salawu-ahmed&theme=vue-dark&hide_border=true)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=salawu-ahmed)  
+
+
 
 ![salawu-ahmed's Stats](https://github-readme-stats.vercel.app/api?username=salawu-ahmed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
